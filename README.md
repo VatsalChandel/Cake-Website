@@ -1,4 +1,4 @@
-# About-Me-Page
-This is one of my first websites that I have made! I used JavaScript, CSS, and HTML. The main purpose of this website is just to explain a little bit about me and what I have done!
+# Cake Website
+This is a website that I made for my mome and her cake bussiness. 
 
-Check it out: https://vatsalchandel.vercel.app/
+Check it out: https://aparna.vercel.app/
